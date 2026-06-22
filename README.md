@@ -7,14 +7,17 @@ All original creative elements, redraws, enhancements, compositions, and new art
 
 ### Derivatives Gallery
 
-![Derivative 1](-  
-*Description of first image* "C:\Users\tisga\Downloads\Telegram Desktop\photo_2026-06-21_21-52-22.jpg"
+![Waving Speedycat](waving-yellow-cat.png)
+Friendly official greeting.
 
+![Ramen Night Speedycat](ramen-yellow-cat.png)
+Cyberpunk ramen run. 
 
-![Derivative 2](<imgC:\
-*Description of second image* "Users\tisga\Downloads\Telegram Desktop\photo_2026-06-21_21-51-44.jpg"
+![Speedycat Derivative 3](IMG_3646.PNG)
+Description: High-quality redraw with high quality art. 
 
-
+![Smoking Speedycat](smoking-yellow-cat.png)
+Chill Speedycat moment
 
 This repository serves as the public record and official home for the modern Speedycat revival.
 

@@ -7,12 +7,15 @@ All original creative elements, redraws, enhancements, compositions, and new art
 
 ### Derivatives Gallery
 
-![Derivative 1](-to-yourpath-first-image.png)  
-*Description of first image*
+![Derivative 1](-  
+*Description of first image* "C:\Users\tisga\Downloads\Telegram Desktop\photo_2026-06-21_21-52-22.jpg"
 
-![Derivative 2](path-to-your-second-image.png)  
-*Description of second image*
 
-(Repeat for your other images)
+![Derivative 2](<imgC:\
+*Description of second image* "Users\tisga\Downloads\Telegram Desktop\photo_2026-06-21_21-51-44.jpg"
+
+
 
 This repository serves as the public record and official home for the modern Speedycat revival.
+
+"C:\Users\tisga\Downloads\Telegram Desktop\photo_2026-06-21_21-51-44.jpg"

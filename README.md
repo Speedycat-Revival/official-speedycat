@@ -19,6 +19,12 @@ Description: High-quality redraw with high quality art.
 ![Smoking Speedycat](smoking-yellow-cat.png)
 Chill Speedycat moment
 
+![Classic yellow flying cat in motion, true to original 2005 Speedycat design](classic-flying-speedycat.png)  
+Classic Flying Speedycat – faithful 2005 revival.
+
+![Bright yellow flying cat in motion with speed lines, true to 2005 Speedycat](flying-speedycat-energy.png)  
+Speedycat with extra energy – modern revival.
+
 This repository serves as the public record and official home for the modern Speedycat revival.
 
 "C:\Users\tisga\Downloads\Telegram Desktop\photo_2026-06-21_21-51-44.jpg"
